@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+build/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.jou
+*.runs/
+*.cache/
+.Xil/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
